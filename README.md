@@ -54,12 +54,21 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 
 
 ![image](https://github.com/user-attachments/assets/e2bdedb5-903c-4ac2-b8cb-3933834450f6)
+
 ![image](https://github.com/user-attachments/assets/c46518e8-bf72-4fd3-bd16-2a8784e5a280)
+
 ![image](https://github.com/user-attachments/assets/3b45f2d0-2c6a-473a-8514-5ef667a1b1f9)
+
+![image](https://github.com/user-attachments/assets/6697b77f-4063-4abb-9723-56b26b3e19cc)
+
 ![image](https://github.com/user-attachments/assets/77af66dd-cfee-4ea5-9db0-44c0e171ae5b)
+
 ![image](https://github.com/user-attachments/assets/b9eec6c7-184d-422f-b751-33d7016696a9)
+
 ![image](https://github.com/user-attachments/assets/d89ae828-bac6-4b76-a663-61b3226b1254)
+
 ![image](https://github.com/user-attachments/assets/5b63f529-dcc2-4b37-a146-59a3a7dda03f)
+
 ![image](https://github.com/user-attachments/assets/42659823-6901-4c94-ad12-1626b6ddc1d2)
 
 
