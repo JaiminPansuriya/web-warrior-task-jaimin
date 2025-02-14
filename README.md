@@ -67,8 +67,8 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 
 For any issues, suggestions, or contributions, feel free to reach out:
 
-- **Name**: [Your Name]
-- **Email**: [Your Email]
-- **Social Media**: [Your Social Media Links]
+- **Name**: Jaimin Pansuriya
+- **Email**: 2403031057054@paruluniversity.ac.in
+
 
 
