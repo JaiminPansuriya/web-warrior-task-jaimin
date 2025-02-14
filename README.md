@@ -12,7 +12,7 @@ https://jaiminpansuriya.github.io/web-warrior-task-jaimin/
 This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. The website is designed to provide information about coding courses, showcase the school's environment, and facilitate communication with visitors. It consists of multiple sections, including Home, About, Gallery, Courses, and Contact.
 
 ## Features
-- It's responsive website
+- **A responsive website is a web design approach that ensures a website adapts seamlessly to different screen sizes, resolutions, and devices (desktops, tablets, and smartphones). This approach enhances user experience and accessibility by adjusting the layout, images, text, and other elements dynamically.**
 - **Home**: A welcoming introduction to the coding school.
 - **About**: Detailed information about the school, its team, and achievements.
 - **Gallery**: A collection of images showcasing the school environment, events, and activities.
@@ -71,6 +71,7 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 
 ![image](https://github.com/user-attachments/assets/42659823-6901-4c94-ad12-1626b6ddc1d2)
 
+![image](https://github.com/user-attachments/assets/b72220f5-9fc1-4140-a7a9-bdc4b8d4111d)
 
 
 ## Contact
@@ -79,6 +80,3 @@ For any issues, suggestions, or contributions, feel free to reach out:
 
 - **Name**: Jaimin Pansuriya
 - **Email**: 2403031057054@paruluniversity.ac.in
-
-
-
