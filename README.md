@@ -34,17 +34,12 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
    git clone <repository_url>
    ```
 
-2. **Navigate to the project folder**:
-   ```bash
-   cd Education Website
-   ```
-
-3. **Open the project**:
+2. **Open the project**:
    - If you have the **Live Server** extension installed in VS Code:
      - Right-click on `index.html` and select **"Open with Live Server"**.
    - Alternatively, open `index.html` manually in your browser.
 
-4. **Explore the website**:
+3. **Explore the website**:
    - Navigate through the different sections (Home, About, Gallery, Courses, Contact) to explore the website.
 
 ## Technologies Used
