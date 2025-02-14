@@ -12,7 +12,7 @@ https://jaiminpansuriya.github.io/web-warrior-task-jaimin/
 This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. The website is designed to provide information about coding courses, showcase the school's environment, and facilitate communication with visitors. It consists of multiple sections, including Home, About, Gallery, Courses, and Contact.
 
 ## Features
-- **A responsive website is a web design approach that ensures a website adapts seamlessly to different screen sizes, resolutions, and devices (desktops, tablets, and smartphones). This approach enhances user experience and accessibility by adjusting the layout, images, text, and other elements dynamically.**
+- **This website is responsive, ensures a website adapts seamlessly to different screen sizes, resolutions, and devices (desktops, tablets, and smartphones). This approach enhances user experience and accessibility by adjusting the layout, images, text, and other elements dynamically.**
 - **Home**: A welcoming introduction to the coding school.
 - **About**: Detailed information about the school, its team, and achievements.
 - **Gallery**: A collection of images showcasing the school environment, events, and activities.
