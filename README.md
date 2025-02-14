@@ -4,7 +4,7 @@
 ![image](https://github.com/user-attachments/assets/e2bdedb5-903c-4ac2-b8cb-3933834450f6)
 
 # Live Project Link 🚀
-https://jaiminpansuriya.github.io/web-warrior-task/
+https://jaiminpansuriya.github.io/web-warrior-task-jaimin/
 
 
 ## Overview
