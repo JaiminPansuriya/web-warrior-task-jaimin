@@ -14,7 +14,7 @@ This is a **Coding School Website** built using **HTML, CSS, and JavaScript**. T
 ## Features
 - It's responsive website
 - **Home**: A welcoming introduction to the coding school.
-- **About**: Detailed information about the school, its mission, and achievements.
+- **About**: Detailed information about the school, its team, and achievements.
 - **Gallery**: A collection of images showcasing the school environment, events, and activities.
 - **Courses**: A list of available coding courses with detailed descriptions.
 - **Contact**: A contact form for inquiries, integrated with **Formspree** for email submission.
